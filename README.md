@@ -1,10 +1,12 @@
-# insitute_of_health
+# Insitute_of_Health_Kyszz
 
-> A Vue.js project
+> 卫健委官网Web网站 —— A Vue.js project
 
 ## Build Setup
 
 ``` bash
+# 此网站作为所有卫健委相关项目入口网站。
+
 # install dependencies
 npm install
 
